@@ -1,5 +1,5 @@
 import React from 'react';
-import ActionButtons from '../ActionBtns/ActionBtns';
+import ActionButtons from '../../ActionBtns/ActionBtns';
 import './ListItem.css';
 
 export default function ListItem({ item, deleteItem, updateChecked }) {

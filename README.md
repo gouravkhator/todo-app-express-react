@@ -12,6 +12,6 @@ Run dev server for both client & server side:
 
 npm run dev
 
-Build the app for production & run server side:
+Build the app for production & run server side (in port 5000 in localhost):
 
 npm run prod
